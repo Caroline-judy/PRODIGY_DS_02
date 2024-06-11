@@ -1,4 +1,4 @@
-## Task-02: Data Cleaning and Exploratory Data Analysis (EDA) on the Titanic Dataset
+# Task-02: Data Cleaning and Exploratory Data Analysis (EDA) on the Titanic Dataset
 # Introduction
 This project involves performing data cleaning and exploratory data analysis (EDA) on the Titanic dataset from Kaggle. The goal is to uncover relationships between variables and identify patterns and trends that can provide insights into the factors affecting survival rates on the Titanic.
 
