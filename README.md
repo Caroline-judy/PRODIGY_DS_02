@@ -3,8 +3,8 @@
 This project involves performing data cleaning and exploratory data analysis (EDA) on the Titanic dataset from Kaggle. The goal is to uncover relationships between variables and identify patterns and trends that can provide insights into the factors affecting survival rates on the Titanic.
 
 # Dataset
-Dataset Name: Titanic - Machine Learning from Disaster
-Source: Kaggle Titanic Dataset
+Dataset Name: Titanic - Machine Learning from Disaster      
+Source: https://www.kaggle.com/c/titanic/data
 
 # Project Steps
 The project began with data cleaning, where missing values in the Age column were imputed using the median age, missing Embarked values were filled with the most frequent port, and missing Cabin values were marked as 'Unknown'. Data types were converted appropriately, with Age transformed to numeric and Embarked to categorical. After ensuring there were no duplicate entries, outliers in the Fare and Age columns were identified and addressed.
