@@ -17,4 +17,4 @@ Fare Impact: Higher fares were associated with better chances of survival.
 Family Size: Smaller family sizes correlated with higher survival probabilities.
 Tools and Libraries
 Programming Language: Python
-Libraries: pandas, numpy, matplotlib, seaborn, scipy
+Libraries: pandas, numpy, matplotlib, seaborn
